@@ -1,2 +1,4 @@
-'config/api_keys.py'
-'*pyc'
+config/api_keys.py
+*pyc
+__pycache__/
+*.css

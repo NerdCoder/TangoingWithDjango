@@ -2,3 +2,4 @@ config/api_keys.py
 *pyc
 __pycache__/
 *.css
+db.sqlite3

@@ -3,3 +3,4 @@ config/api_keys.py
 __pycache__/
 *.css
 db.sqlite3
+.idea/

@@ -5,7 +5,7 @@ from django.shortcuts import render
 def index(request):
     context_dict = {'boldmessage': "Django, Tango, Rango, Mango!!"}
     # Template directory is all set
-    # Simply consider my template pwd is "template"
+    # Simply consider my template pwd is "template/"
     return render(request, 'rango/index.html', context=context_dict)
 
 
